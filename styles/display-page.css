@@ -16,32 +16,32 @@ body {
     border: 1px solid black;
 }
 
-.green {
-    background-color: green; 
+.one-half{
     width: 50%;
     height: 200px;
+}
+
+.one-third {
+    width: 33.33%;
+    height: 300px;
+}
+
+.green {
+    background-color: green; 
 }
 
 .blue {
     background-color:blue;
-    width: 50%;
-    height: 200px;
 }
 
 .grey {
     background-color: grey;
-    width: 33.33%;
-    height: 300px;
 }
 
 .black {
     background-color: black;
-    width: 33.33%;
-    height: 300px;
 }
 
 .orange {
     background-color: orange;
-    width: 33.33%;
-    height: 300px;
 }
