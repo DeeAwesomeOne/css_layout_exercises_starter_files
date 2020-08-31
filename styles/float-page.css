@@ -10,3 +10,14 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.in-text-image-left {
+  width: 40%;
+  float: left;
+}
+
+.in-text-image-right {
+  width: 40%;
+  float: right;
+}
+
